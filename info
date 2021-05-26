@@ -1,0 +1,122 @@
+{
+  "uuid": "ecb9e9f004c8d5ea0af1c31ce687d0f3",
+  "path": "Offline/ProjectSIT210",
+  "name": "ProjectSIT210",
+  "content": "",
+  "created_at": "2021-05-25 08:40:33",
+  "updated_at": "2021-05-25 16:57:24",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "499a0f83e0f5e41255694ce9ad391238",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "13861f0d626049d6ba67252957a6227e": 1,
+        "34fcf4e5644f415ba1353d214f998103": 1,
+        "4599e1e1ee1c4b1fb85e201ae8d78418": 1,
+        "7e352931705146ebbaaf1d581442cbdd": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "470Ω ±20%",
+          1,
+          "RES-TH_L7.0-W4.0-P2.50-D1.0-S2.00",
+          "R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C123348",
+            "BOM_Manufacturer": "Nanjing Shiheng Elec",
+            "BOM_Manufacturer Part": "MF11 471M",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "e2420deee3194cca99a7f195c5389695",
+            "uuid": "7e352931705146ebbaaf1d581442cbdd"
+          }
+        ],
+        [
+          "Ultrasonic sensor",
+          1,
+          "ULTRASONIC SENSOR",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "ULTRASONIC-HC-SR04",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "346b8dde163043d6bf1073a972d2b4be",
+            "uuid": "34fcf4e5644f415ba1353d214f998103"
+          }
+        ],
+        [
+          "330",
+          1,
+          "RES-TH_BD2.3-L6.5-P6.9-D0.5",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C10322",
+            "BOM_Manufacturer": "Made in China",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "7a544e2a32564ae99e7504d53d7d8a4f",
+            "uuid": "4599e1e1ee1c4b1fb85e201ae8d78418"
+          }
+        ],
+        [
+          "RASPBERRYPI B+ SHIELD",
+          1,
+          "RASPBERRYPI B+ SHIELD",
+          "RPI1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "2cb148895a6d49c098c5523a0238a5cf",
+            "uuid": "13861f0d626049d6ba67252957a6227e"
+          }
+        ]
+      ],
+      "updateTime": 1621925841,
+      "createTime": 1621924181,
+      "histories": [],
+      "created_at": "2021-05-25 16:29:41",
+      "updated_at": "2021-05-25 16:57:21"
+    },
+    {
+      "uuid": "678d89e8c5ac2d2264a415477669d31f",
+      "puuid": "ecb9e9f004c8d5ea0af1c31ce687d0f3",
+      "title": "PCB_ProjectSIT210",
+      "filename": "PCB_ProjectSIT210.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e2420deee3194cca99a7f195c5389695": 1,
+        "346b8dde163043d6bf1073a972d2b4be": 1,
+        "7a544e2a32564ae99e7504d53d7d8a4f": 1,
+        "2cb148895a6d49c098c5523a0238a5cf": 1
+      },
+      "BOM": [],
+      "updateTime": 1621925844,
+      "createTime": 1621925697,
+      "histories": [],
+      "created_at": "2021-05-25 16:54:57",
+      "updated_at": "2021-05-25 16:57:24"
+    }
+  ],
+  "sort": [],
+  "title": "ProjectSIT210",
+  "foldername": "ProjectSIT210",
+  "schfilename": "ProjectSIT210.json",
+  "schfilemtime": 1621925842000
+}
